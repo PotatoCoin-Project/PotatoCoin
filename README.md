@@ -1,7 +1,7 @@
 Potatocoin integration/staging tree
 ================================
 
-http://www.potatocoin.org
+http://www.potatocoin.com
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Potatocoin Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Potatocoin client sofware, see http://www.potatocoin.org.
+the Potatocoin client sofware, see http://www.potatocoin.com.
 
 License
 -------
